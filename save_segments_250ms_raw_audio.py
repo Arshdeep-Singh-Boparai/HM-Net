@@ -8,11 +8,8 @@ Created on Sat Dec 31 02:31:51 2022
 
 import pickle
 import librosa
-
 import pickle
 import sys
-
-
 #%%
 
 def load_audio(audio_path, sr=None):
@@ -39,7 +36,7 @@ audio_folder_path="path of audio files"
 
 
 
-filename='data_Case4'
+filename='normal_data_6dB'
 file_list=[]
 
 os.chdir(feature_save_folder) 
