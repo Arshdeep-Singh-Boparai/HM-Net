@@ -25,4 +25,4 @@ References:
 
 Acknowldgement: 
 
-The work is a part of internship work done at Inter Bangalore, India.
+The work is a part of internship work done at Intel Bangalore, India.
