@@ -1,4 +1,3 @@
-# HM-Net
 
 The repository contains sound-based health monitoring of industrial machines framework. The experiments are performed on MIMII [1] and ToyADMOS [2] datasets. 
 
