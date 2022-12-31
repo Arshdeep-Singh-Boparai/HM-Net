@@ -4,7 +4,9 @@ The repository contains sound-based health monitoring of industrial machines fra
 
 A brief description of various python scripts is give below,
 
-HMNet_SVM.py:  Feature extraction using HM-Net and SVM classification.
-save_segments_250ms_raw_audio.py: Save sound 250ms segments in numpy format.
-Log-mel.py: Extract log-mel spectrogram time-frquency representations for machine sounds.
+## 1. HMNet_SVM.py:  Feature extraction using HM-Net and SVM classification.
+
+## 2. save_segments_250ms_raw_audio.py: Save sound 250ms segments in numpy format.
+
+## 3. Log-mel.py: Extract log-mel spectrogram time-frquency representations for machine sounds.
 
