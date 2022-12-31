@@ -126,7 +126,8 @@ model.summary()
 from random import randint
 from sklearn.svm import SVC
 
-os.chdir('~/Slider/ID_06')  #Path of the raw data sampled at 8kHz anf od 2000 dimension
+os.chdir('(feature_save_folder from save_segments_250ms_raw_audio.py script)')  #Path of the raw data sampled at 8kHz anf od 2000 dimension 
+
 normal_data_6dB=np.load('normal_data_6dB.npy').astype('float32')  # raw audio data saved for each 250ms segments from 6dB (MIMII) normal samples
 normal_data_0dB=np.load('normal_data_0dB.npy').astype('float32')# raw audio data saved for each 250ms segments from 6dB (MIMII) normal samples
 normal_data_C6dB=np.load('normal_data_-6dB.npy').astype('float32')
