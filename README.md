@@ -8,5 +8,7 @@ A brief description of various python scripts is give below,
 
 2. save_segments_250ms_raw_audio.py: Save 250ms sound segments in numpy format.
 
-3. Log-mel.py: Extract log-mel spectrogram time-frquency representations for machine sounds.
+3. Log-mel.py: Extract log-mel spectrogram time-frquency representations for machine sounds. Please use the script HMNet_SVM.py by replacing HM-Net features with Log-mel features for SVM classification.
+
+4. SoundNet_feature_extraction.py: Feature extraction using pre-trained SoundNet from raw-audio segments. Please use the script HMNet_SVM.py by replacing HM-Net features with SoundNet features for SVM classification.
 
