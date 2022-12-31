@@ -19,8 +19,10 @@ References:
 
 
 [1] Purohit, Harsh, et al. "MIMII DATASET: SOUND DATASET FOR MALFUNCTIONING INDUSTRIAL MACHINE INVESTIGATION AND INSPECTION." Acoustic Scenes and Events 2019 Workshop (DCASE2019). 2019.
+
 [2] Koizumi, Yuma, et al. "ToyADMOS: A dataset of miniature-machine operating sounds for anomalous sound detection." 2019 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). IEEE, 2019.
-[3] Aytar, Yusuf, Carl Vondrick, and Antonio Torralba. "Soundnet: Learning sound representations from unlabeled video." Advances in neural information processing systems 29 (2016).
+
+[3] Aytar, Yusuf, Carl Vondrick, and Antonio Torralba. "SoundNet: Learning sound representations from unlabeled video." Advances in neural information processing systems 29 (2016).
 
 Acknowldgement: 
 
